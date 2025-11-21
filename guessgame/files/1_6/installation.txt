@@ -37,7 +37,7 @@ Wait for GuessGame to save your progress.
 4. Extract GuessGameForWindows.exe out of the downloaded update file, GuessGame.zip.
 5. Replace the old GuessGameForWindows.exe game file.
 
-Optional: You can save your old GuessGame game file somewhere else.
+Optional: You can save your old GuessGame game file in /versions/<version> to play it with the GuessGame Launcher (Launcher is available in version 1.6 and newer, can launch all versions).
 
 GuessGame is owned and developed by RVH Productions.
 To learn more about GuessGame, please visit the RVH Productions website: https://rvhproductions.com.
